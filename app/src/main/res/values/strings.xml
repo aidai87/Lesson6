@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson6.2</string>
+    <string name="password">Password:</string>
+    <string name="email">Email:</string>
+    <string name="enter_btn">Войти</string>
+    <string name="welcome">Добро Пожаловать!</string>
+</resources>
