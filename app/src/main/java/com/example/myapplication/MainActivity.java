@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
                         if (!email.getText().toString().isEmpty() && !password.getText().toString().isEmpty()) {
                             btn_save.setBackgroundColor(Color.parseColor("#FDDB16"));
                         } else {
-                            btn_save.setBackgroundColor(Color.parseColor("##FFFFFF"));
+                            btn_save.setBackgroundColor(Color.parseColor("#FFFFFF"));
                         }
                     }
                 });
